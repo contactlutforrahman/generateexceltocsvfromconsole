@@ -1,0 +1,19 @@
+{
+    "name": "lutforrahman/exceltocsv",
+    "description": "A package to convert excel file to csv file from console",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lutfor Rahman",
+            "email": "contact.lutforrahman@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lutforrahman\\ExcelToCsv\\": "src/"
+        }
+    }
+}
